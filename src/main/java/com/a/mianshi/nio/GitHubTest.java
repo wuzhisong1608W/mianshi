@@ -11,6 +11,6 @@ public class GitHubTest {
 	 * 新增一个接口
 	 */
 	public static void main(String[] args) {
-
+		String s = "123";
 	}
 }
